@@ -22,10 +22,10 @@
 <img src="Capture/liste.png">
 <img src="Capture/pagination.png">
 <img src="Capture/recherche.png">
-<img src="Capture/recherche+paginatio.png">
+<img src="Capture/recherche+pagination.png">
 <img src="Capture/suppressionIchraq6.png">
 <img src="Capture/apressuppression.png">
-<img src="Capture/table">
+<img src="Capture/table.png">
 <img src="Capture/formatJson.png">
 
 
